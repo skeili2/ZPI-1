@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Linia z gałęzi second branch");
         System.out.println("Druga linia z gałęzi second branch");
         System.out.println("Linia z galezi main");
+        System.out.println("Jeszcze jedna");
     }
 }
